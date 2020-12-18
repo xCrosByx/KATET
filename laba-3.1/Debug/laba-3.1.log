@@ -1,0 +1,8 @@
+﻿  empty.cpp
+  fox.cpp
+  grass.cpp
+  laba-3.1.cpp
+D:\Visual Studio\ППиВС\laba-3.1\laba-3.1.cpp(7,10): fatal error C1083: Не удается открыть файл включение: glut.h: No such file or directory,
+  living.cpp
+  rabbit.cpp
+  Создание кода...
