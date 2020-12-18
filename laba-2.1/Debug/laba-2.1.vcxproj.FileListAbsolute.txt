@@ -1,0 +1,2 @@
+D:\Visual Studio\ППиВС\laba-2.1\Debug\laba-2.1.exe
+D:\Visual Studio\ППиВС\laba-2.1\Debug\laba-2.1.pdb
